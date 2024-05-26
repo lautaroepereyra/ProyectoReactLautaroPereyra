@@ -7,6 +7,5 @@
 
 .navlinks{
     display: flex;
-    justify-content: space-evenly;
-    align-items: baseline;
+    gap: 3rem;
 }

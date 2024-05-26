@@ -1,7 +1,11 @@
 .contenidoContainer{
-    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(2, 100vh);
+    grid-template-rows: repeat(2, 35vh);
+    justify-content: center;
+    height: auto;
 }
 
-.titulo{
-    text-align: center;
+.contenidoTitulo{
+    justify-items: center;
 }

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Playstation 5",
+        "price": 1000,
+        "description": "La Playstation 5 es la mejor consola de videojuegos",
+        "image": "assets/img/playstation5.jpg",
+        "category": "electronics",
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "name": "Xbox Series X",
+        "price": 800,
+        "description": "La xbox series one es el entretenimiento ideal",
+        "image": "assets/img/xboxseriesx.png",
+        "category": "electronics",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "name": "Nintendo Switch",
+        "price": 300,
+        "description": "La Nintendo llego para quedarse",
+        "image": "assets/img/nintendoswitch.jpg",
+        "category": "electronics",
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "name": "Iphone 15 Pro Max",
+        "price": 1300,
+        "description": "El iphone mas completo de la historia",
+        "image": "assets/img/iphone15promax.webp",
+        "category": "smartphones",
+        "stock": 8
+    },
+    {
+        "id": 5,
+        "name": "Samsung galaxy S24",
+        "price": 1000,
+        "description": "El S24 el samsung mas inteligente",
+        "image": "assets/img/SamsungS24.webp",
+        "category": "smartphones",
+        "stock": 3
+    }
+]

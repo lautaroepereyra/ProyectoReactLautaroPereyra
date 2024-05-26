@@ -7,10 +7,10 @@ const Navbar = () => {
 
         <div>
             <ul className="navlinks">
-                <li>Home</li>
-                <li>Productos</li>
-                <li>Nosotros</li>
-                <li>Contacto</li>
+                <li>Consolas</li>
+                <li>Laptops</li>
+                <li>Smartphones</li>
+                <li>Tablets</li>
             </ul>
         </div>
 
